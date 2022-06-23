@@ -21,4 +21,11 @@ controllers.
 It was tested on the following operating systems:  
 Kali linux(ARM), Windows(X86), & RetroPie
 
+Run the game using the following command:
+
+'python tamasmemorygame.py'
+
+NOTE: You may or may not need to install additional modules.  See below for an example:
+
+'pip install <missing module>
 
