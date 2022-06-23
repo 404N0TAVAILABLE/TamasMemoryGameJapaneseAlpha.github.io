@@ -27,5 +27,5 @@ Run the game using the following command:
 
 NOTE: You may or may not need to install additional modules.  See below for an example:
 
-'pip install \<tmissing_module&lt\>
+'pip install \<missing_module\>
 
