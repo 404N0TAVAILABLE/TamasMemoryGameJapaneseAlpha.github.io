@@ -7,7 +7,7 @@ A vehicle for evaluating Pyhon for gaming.
 
 **Click** the image below to see a playthrough.
 
-<a href="https://www.youtube.com/watch?v=    qCyERPZ_h9k&t=7s"><img src="/assets/img/VideoLink.svg" width="50px"></a> 
+<a href="https://www.youtube.com/watch?v=    qCyERPZ_h9k&t=7s"><img src="https:///TamasMemoryGameJapaneseAlpha.github.io/assets/img/VideoLink.svg" width="50px" alt="Video Link"/></a> 
 
 In this game, you play against an AI (very limited) in three different modes.
 **[Easy, Normal, Hard]** - Hard mode is very unforgiving.
