@@ -1,1 +1,12 @@
 theme: jekyll-theme-minimal
+
+domain: 404N0TAVAILABLE.github.io    
+url: git@github.com:404N0TAVAILABLE/TamasMemoryGameJapaneseAlpha.github.io.git 
+baseurl: /TamasMemoryGameJapaneseAlpha/   
+repository: 404N0TAVAILABLE/TamasMemoryGameJapaneseAlpha.github.io.git 
+
+title: Tama's Memory Game Japanese ed.
+description: Site created to  profile python game code
+
+show_downloads: "true"
+
