@@ -5,7 +5,7 @@ repository: 404N0TAVAILABLE/minimal.git
 remote_theme: 404N0TAVAILABLE/minimal
 domain: 404N0TAVAILABLE.github.io
 url: https://github.com/404N0TAVAILABLE/TamasMemoryGameJapaneseAlpha.github.io.git
-baseurl: /TamasMemoryGameJapaneseAlpha/
+  #baseurl: /TamasMemoryGameJapaneseAlpha/
 
 show_downloads: true
 google_analytics:
