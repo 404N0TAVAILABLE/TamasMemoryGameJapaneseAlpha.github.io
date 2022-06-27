@@ -1,16 +1,7 @@
-remote_theme: pages-themes/minimal@v0.2.0
-logo: /../_include/logo2.png
-
-domain: 404N0TAVAILABLE.github.io    
-url: https://github.com/404N0TAVAILABLE/TamasMemoryGameJapaneseAlpha.github.io.git
-  #baseurl: /TamasMemoryGameJapaneseAlpha
-repository: 404N0TAVAILABLE/TamasMemoryGameJapaneseAlpha.github.io.git 
-
-title: Tama's Memory Game Japanese ed.
-description: Site created to  profile python game code
-
-show_downloads: "true"
-
-plugins: 
-  - jekyll-remote-theme
-
+title: Tama's Memory Game - Japanese
+logo: /assets/img/logo2.png
+description: Minimal is a theme for GitHub Pages.
+repository: 404N0TAVAILABLE/minimal.git
+show_downloads: true
+google_analytics:
+  #theme: jekyll-theme-minimal
