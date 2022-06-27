@@ -5,9 +5,6 @@ repository: 404N0TAVAILABLE/minimal.git
 show_downloads: true
 google_analytics:
 
-domain: 404N0TAVAILABLE.github.io    
-url: https://github.com/404N0TAVAILABLE/TamasMemoryGameJapaneseAlpha.github.io.git
-baseurl: /TamasMemoryGameJapaneseAlpha
 
 plugins: 
   - jekyll-remote-theme
