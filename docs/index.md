@@ -1,39 +1,78 @@
+---
+layout: default
+---
 
-## Welcome to GitHub Pages
+**Welcome** to Tama's Memory Game - Japanese edition.
+A vehicle for evaluating Pyhon for gaming.
 
-You can use the [editor on GitHub](https://github.com/404N0TAVAILABLE/TamasMemoryGameJapaneseAlpha.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+**Click** the image below to see a playthrough.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<a href="https://www.youtube.com/watch?v=    qCyERPZ_h9k&t=7s"><img src="/assets/img/VideoLink.svg" width="50px"></a> 
 
+In this game, you play against an AI (very limited) in three different modes.
+**[Easy, Normal, Hard]** - Hard mode is very unforgiving.
 
-### Markdown
+The player with the highest score (number of matches) is the winner.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Main](assets/img/main_000.png)
 
-```markdown
-Syntax highlighted code block
+# How To Play
 
-# Header 1
-## Header 2
-### Header 3
+When menu options have multiple choices available, click until the option you
+want appears.  The option will recycle to the begining of the list once the end
+has been reached.  
 
-- Bulleted
-- List
+For keyboard and analog stick players, use the right or left to navigate
+between the different choices.  Pressing up and down will navigate between the
+different menus.
 
-1. Numbered
-2. List
+## Select a Difficulty Level
 
-**Bold** and _Italic_ and `Code` text
+Choose between three difficulty levels:
 
-[Link](url) and ![Image](src)
-```
+* **Easy** - The AI randomly chooses between all the available cards. 
+* **Medium** - The AI memorizes the last three moves.
+* **Hard** - The AI memorizes every move since the game began.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![Menu](assets/img/Menu_Difficulty.png)
 
-### Jekyll Themes
+## Select a Level Map
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/404N0TAVAILABLE/TamasMemoryGameJapaneseAlpha.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Currently there are only two available level maps, Katakana and Hiragana.  There are future plans to add numbers
+and date/time.
 
-### Support or Contact
+![Menu](assets/img/Menu_LevelMap.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Start the Game
+
+Press **New Game** to start game play.
+
+![NewGame](assets/img/Menu_NewGame.png)
+
+## Make a Match
+
+Match the English sound with the corresponding Japanese character.  
+
+Once two cards have been flipped by the Player, click anywhere on the screen to
+continue.  
+
+Note: Some characters will have the same English sounds.  In these situations, hints
+will be displayed on the card prompting the Player with the correct match.
+
+![Make a matches](assets/img/match_pairs.png)
+
+## AI Player's Turn
+
+When you see the message **Thinking which card to pick**, it is the AI's turn.
+The AI will choose two cards with a brief pause before flipping the cards back
+over.  
+
+![AI Turn](assets/img/AI_Turn.png)
+
+## Game Over
+
+The game is over when all cards have been flipped.  
+
+I hope you enjoyed the
+game.  It's intended to compliment a proper foreign langugage course by
+assisting with memory retention.
