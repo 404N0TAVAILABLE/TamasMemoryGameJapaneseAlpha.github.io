@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
 logo: /assets/img/logo.png
 
 domain: 404N0TAVAILABLE.github.io    
@@ -10,4 +11,7 @@ title: Tama's Memory Game Japanese ed.
 description: Site created to  profile python game code
 
 show_downloads: "true"
+
+plugins: 
+  - jekyll-remote-theme
 
